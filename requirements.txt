@@ -1,0 +1,4 @@
+opencv-python
+pytesseract
+google-generativeai
+pyautogui
